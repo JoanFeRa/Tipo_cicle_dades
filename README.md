@@ -1,0 +1,1 @@
+# Tipo_cicle_dades
